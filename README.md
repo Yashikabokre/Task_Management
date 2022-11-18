@@ -22,6 +22,10 @@
 
 - These cards are editable.
 
+## Tech Stack
+1. Java script
+2. css
+3. html
 
 ## Deployment
  https://yashikabokre.github.io/Task_Management/
@@ -31,8 +35,4 @@
 I'm a full stack developer...
 https://github.com/Yashikabokre
 
-## Tech Stack
-1. Java script
-2. css
-3. html
 
